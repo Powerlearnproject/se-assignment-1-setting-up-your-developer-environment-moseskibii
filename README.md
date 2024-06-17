@@ -51,4 +51,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Clarity of reflection on challenges and solutions encountered.
 - Adherence to submission guidelines and deadlines.
 
+https://docs.google.com/document/d/1QtTkmfxahLF8CgT81rHWAHYBqm_-NIp3/edit?usp=drive_link&ouid=114079558347415138187&rtpof=true&sd=true
+answers to assignment 2
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
